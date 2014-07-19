@@ -1,0 +1,22 @@
+{
+  "name": "phonegap-screenshot-example",
+  "version": "0.0.0",
+  "description": "Generating webview screenshots for use in app stores",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/CrowdHailer/phonegap-screenshot-example.git"
+  },
+  "keywords": [
+    "phonegap"
+  ],
+  "author": "Peter Saxton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CrowdHailer/phonegap-screenshot-example/issues"
+  },
+  "homepage": "https://github.com/CrowdHailer/phonegap-screenshot-example"
+}
